@@ -2,8 +2,8 @@
   margin: 8px;
   padding: 16px;
   background-color: bisque;
-  flex-basis: 200px;
-
+  flex-basis: 300px;
+  box-sizing: border-box;
   flex-shrink: 1;
   flex-grow: 1;
 }
